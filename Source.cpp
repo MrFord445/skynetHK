@@ -46,6 +46,7 @@ int main()
 	cout << "We have narrowed the search area to an 8x8 kill boxthat is split into a grid, numbered 1 - 64.\n\n";
 	cout << "To avoid unwanted.... collateral damage. You must pinpoint the enemies location down to to one of those squares.\n\n";
 	cout << "Keep your head up soldier and pay ATTENTION!!!";
+	cout << "Are you still with me?\n";
 	cin >> answer;
 	cout << "Okay be on the look out \n";
 	cout << "Enemies location is being triangulated \n";
